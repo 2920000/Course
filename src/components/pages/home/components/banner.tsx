@@ -17,7 +17,7 @@ const Banner = () => {
                         height={'700px'}
                     >
                         <Typography variant="h4" textAlign={'center'}>
-                            Học kỹ năng mới để tăng cơ hội nghề nghiệp
+                            Học kỹ năng mới để tăng cơ hội việc làm
                         </Typography>
                         <Button variant="contained" sx={{ width: '200px' }}>
                             Bắt đầu tìm khóa học
